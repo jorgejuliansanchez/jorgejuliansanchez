@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgejuliansanchez
 - 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning Python, OpenCV, Arduino, Raspberry
+- 🌱 I’m currently learning Python ML
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me jorgejuliansanchez@gmail.com
 
