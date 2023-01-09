@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @jorgejuliansanchez
-- 👀 I’m interested in Artificial Inteligence
-- 🌱 I’m currently learning Python ML
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me jorgejuliansanchez@gmail.com
+
+I’m interested in AI
+jorgejuliansanchez@gmail.com
 
 <!---
 jorgejuliansanchez/jorgejuliansanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
